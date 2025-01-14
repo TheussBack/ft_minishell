@@ -1,8 +1,6 @@
-Here's a README template for your "Minishell" project:
-
 ---
 
-# Minishell - A Beautiful Shell
+# Minishell
 
 ## Introduction
 
